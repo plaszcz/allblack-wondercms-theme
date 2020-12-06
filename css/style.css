@@ -34,7 +34,7 @@ a {
 }
 
 a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 	border-bottom: 1px solid #000;
 	color: #ffffcc;
 
@@ -47,8 +47,14 @@ h3 {margin: 0;}
 	background-color: rgba(178,178,178,0.4) !important;
 }
 
+.dropdown-item {
+	color:#000000;
+	text-decoration: none;
+}
+
 .dropdown-item a {
 	color: #000000;
+	text-decoration: none;
 }
 
 .dropdown-item a:hover {
