@@ -1,4 +1,4 @@
-# black 2 theme for WonderCMS
+# allblack theme for WonderCMS
 
 ## Description
 Based on a standard template, added some changes, logo, background, button up, and social icons.
@@ -16,7 +16,7 @@ To add social icons open theme.php and add the following (where you want to disp
 </center>
 ```
 
-## Author © Turboblack 2018 www.torba.tk
+## Author © plaszcz
 
 ## Preview
 ![Theme preview](/preview.jpg)
