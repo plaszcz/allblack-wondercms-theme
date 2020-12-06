@@ -47,26 +47,8 @@ h3 {margin: 0;}
 	background-color: rgba(178,178,178,0.4) !important;
 }
 
-.dropdown-item {
-	color:#000000;
-	text-decoration: none;
-}
-
-.dropdown-item:hover {
-	color:#000000 !important;
-	background-color:#ffffcc;
-	text-decoration: none;
-}
-
-.dropdown-item a {
-	color: #000000;
-	text-decoration: none;
-}
-
-.dropdown-item a:hover {
-	color: #000000 !important;
-	background-color:#ffffcc;
-	text-decoration: none;
+.dropdown-menu {
+	background-color: #000000;
 }
 
 .spacer20 {height: 20px;}
