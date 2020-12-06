@@ -40,10 +40,10 @@ a:hover {
 
 }
 
-#home-linki a{
+.popover-content > a{
 	color: #333333;
 }
-#home-linki a:hover{
+.popover-content > a:hover{
 	color: #000000;
 }
 
