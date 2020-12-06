@@ -22,7 +22,6 @@ body {
 	line-height: 73px;
 	vertical-align: middle;
 	text-align: center;
-	background: url("icons-graphic-design.png");
 	margin: 0 0 0 20px;
 	font-weight: bold;
 	padding: 0;
@@ -31,13 +30,13 @@ body {
 a {
 	text-decoration: none;
 	border-bottom: 1px dotted #555;
-	color: #000000;
+	color: #ffffcc;
 }
 
 a:hover {
-	text-decoration: none;
+	text-decoration: underline;
 	border-bottom: 1px dotted #000;
-	background-color:#ffffcc;
+
 }
 
 h3 {margin: 0;}
@@ -45,6 +44,11 @@ h3 {margin: 0;}
 .navbar-nav > .active a {
 	color: #fff !important;
 	background-color: rgba(178,178,178,0.4) !important;
+}
+
+.dropdown-item {
+	color: #000000;
+	background-color:#ffffcc;
 }
 
 .spacer20 {height: 20px;}
