@@ -30,7 +30,7 @@
     				<div class="navbar-header">
     					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navMobile">&#9776;</button>
     					<a href="<?= $Wcms->url() ?>">
-    					    <h3><?= $Wcms->get('config', 'siteTitle') ?><span class="navbar" id="logo"></span></h3>
+    					    <h3><?= $Wcms->get('config', 'siteTitle') ?><!-- <span class="navbar" id="logo"></span> --></h3>
     					</a>
     				</div>
     			</div>
