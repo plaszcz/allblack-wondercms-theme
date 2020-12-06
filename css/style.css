@@ -52,13 +52,19 @@ h3 {margin: 0;}
 	text-decoration: none;
 }
 
+.dropdown-item:hover {
+	color:#000000 !important;
+	background-color:#ffffcc;
+	text-decoration: none;
+}
+
 .dropdown-item a {
 	color: #000000;
 	text-decoration: none;
 }
 
 .dropdown-item a:hover {
-	color: #000000;
+	color: #000000 !important;
 	background-color:#ffffcc;
 	text-decoration: none;
 }
