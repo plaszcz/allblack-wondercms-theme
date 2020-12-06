@@ -40,10 +40,10 @@ a:hover {
 
 }
 
-.popover-content > a{
+.popover-content > span > a{
 	color: #333333;
 }
-.popover-content > a:hover{
+.popover-content > span > a:hover{
 	color: #000000;
 }
 
