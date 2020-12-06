@@ -40,10 +40,8 @@ a:hover {
 
 }
 
-.popover-content > span > a{
-	color: #333333;
-}
-.popover-content > span > a:hover{
+.note-popover.popover .popover-content a {
+	font-size: 11px;
 	color: #000000;
 }
 
